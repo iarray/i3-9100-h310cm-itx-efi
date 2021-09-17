@@ -1,14 +1,15 @@
 ## 配置
-+ OS: macOS 11.5.2 20F71 x86_64 / (SMBIOS: iMac19,1)
++ OS: macOS 11.5.2 
++ MainBoard：华擎H310cm-itx
 + OpenCore: 0.7
 + CPU: Intel i3-9100
 + GPU: Intel UHD Graphics 630
 + Wi-Fi: BCM94360CS2 
 
 ## 存在问题
-Hdmi显示屏紫屏；解决方法 注入花屏补丁
+Hdmi显示紫屏；解决方法 注入花屏补丁
+一键脚本仓库 https://github.com/xzhih/one-key-hidpi/blob/master/README-zh.md
 ```
-# 一键脚本仓库 https://github.com/xzhih/one-key-hidpi/blob/master/README-zh.md
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/hidpi.sh)"
 ```
 
