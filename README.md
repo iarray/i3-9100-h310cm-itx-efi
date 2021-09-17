@@ -7,10 +7,10 @@
 
 ## 存在问题
 Hdmi显示屏紫屏；解决方法 注入花屏补丁
-
-  #https://github.com/xzhih/one-key-hidpi/blob/master/README-zh.md
-  bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/hidpi.sh)"
-
+```
+# 一键脚本仓库 https://github.com/xzhih/one-key-hidpi/blob/master/README-zh.md
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/hidpi.sh)"
+```
 
 ## BIOS
 Load UEFI Defaults
