@@ -26,7 +26,7 @@ Load UEFI Defaults
 
 
 
-## macOS Tips
+## macOS 一些设置
 
 ```
 sudo pmset -c sleep 30
@@ -47,6 +47,3 @@ sudo scutil --set LocalHostName mini
 
 sudo spctl --master-disable
 ```
-
-- [acidanthera](https://github.com/acidanthera)
-- [xjn819 blog](https://blog.xjn819.com/)
